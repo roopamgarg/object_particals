@@ -15,7 +15,6 @@
     "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
-    "dev": "",
     "serve": "webpack serve  --mode development --entry ./src/index.js -o dist"
   },
   "keywords": [],
