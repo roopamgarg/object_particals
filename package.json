@@ -1,0 +1,24 @@
+{
+  "name": "particals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gsap": "^3.5.1",
+    "react-spring": "^8.0.27",
+    "source-map-loader": "^1.1.2",
+    "three": "^0.122.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "dev": "",
+    "serve": "webpack serve  --mode development --entry ./src/index.js -o dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

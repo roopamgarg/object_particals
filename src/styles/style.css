@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.particlehead {
+    background: linear-gradient(-135deg,#0ff,#00f);
+  }
+  
+  h1 {
+    font-size: 31px;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-left: -264px;
+    margin-top: -20px;
+    pointer-events: none;
+  }
+  
+  h1 strong {
+    font-weight: 700;
+  }
+  
+  h1 em {
+    font-family: 'Playfair Display', serif;
+    text-transform: lowercase;
+    font-style: italic;
+  }
